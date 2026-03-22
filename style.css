@@ -19,6 +19,12 @@ nav a {
     color: #b8bb26;         
 
 }
+nav h1 {
+    text-decoration: none;
+    color #000000; 
+
+
+}
 .gif {
     max-width: 300px;  
     height: auto;
