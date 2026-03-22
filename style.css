@@ -1,0 +1,28 @@
+body {
+    background-color: #282828;
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+nav ul li {
+    list-style: none !important; 
+    list-style-type: none !important;
+}
+nav a {
+    text-decoration: none;
+    font-weight: bold; 
+    color: #b8bb26;         
+
+}
+.gif {
+    max-width: 300px;  
+    height: auto;
+    margin: 20px 0;   
+    border-radius: 8px;
+}
+
